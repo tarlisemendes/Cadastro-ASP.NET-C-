@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Client.Produtos.Models.FornecedorView>
+
+
+<table class="table">
+    <tr>
+
+        <th>
+            Nome do Fornecedor
+        </th>
+        <th>
+            Email do Fornecedor
+        </th>
+        <th>
+            Telefone do Fornecedor
+        </th>
+       
+        <th>
+            Produto do Fornecedor
+        </th>
+        <th>
+            Valor do Produto
+        </th>
+        <th>
+            Saldo em Estoque
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefone)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.Valor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.SaldoEstoque)
+        </td>
+       
+    </tr>
+    }
+
+</table>

@@ -1,0 +1,124 @@
+﻿[
+  {
+    "Codigo": "001",
+    "Nome": "Ferramenta",
+    "Valor": 9.90,
+    "Quantidade": 10
+
+  },
+  {
+    "Codigo": "002",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 500
+  },
+  {
+    "Codigo": "003",
+    "Nome": "Ferramenta",
+    "Valor": 9.90,
+    "Quantidade": 100
+  },
+  {
+    "Codigo": "004",
+    "Nome": "Ferramenta",
+    "Valor": 19.90,
+    "Quantidade": 300
+  },
+  {
+    "Codigo": "005",
+    "Nome": "Ferramenta",
+    "Valor": 41.90,
+    "Quantidade": 200
+  },
+  {
+    "Codigo": "006",
+    "Nome": "Ferramenta",
+    "Valor": 14.90,
+    "Quantidade": 300
+  },
+  {
+    "Codigo": "007",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 600
+  },
+  {
+    "Codigo": "008",
+    "Nome": "Ferramenta",
+    "Valor": 9.90,
+    "Quantidade": 400
+  },
+  {
+    "Codigo": "009",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 100
+  },
+  {
+    "Codigo": "010",
+    "Nome": "Ferramenta",
+    "Valor": 9.90,
+    "Quantidade": 50
+  },
+  {
+    "Codigo": "011",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 80
+  },
+  {
+    "Codigo": "012",
+    "Nome": "Ferramenta",
+    "Valor": 19.90,
+    "Quantidade": 80
+  },
+  {
+    "Codigo": "013",
+    "Nome": "Ferramenta",
+    "Valor": 1.90,
+    "Quantidade": 100
+  },
+  {
+    "Codigo": "014",
+    "Nome": "Ferramenta",
+    "Valor": 1.90,
+    "Quantidade": 300
+  },
+  {
+    "Codigo": "015",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 100
+  },
+  {
+    "Codigo": "016",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 400
+  },
+  {
+    "Codigo": "017",
+    "Nome": "Ferramenta",
+    "Valor": 9.90,
+    "Quantidade": 200
+  },
+  {
+    "Codigo": "018",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 100
+  },
+  {
+    "Codigo": "019",
+    "Nome": "Ferramenta",
+    "Valor": 3.90,
+    "Quantidade": 10
+  },
+  {
+    "Codigo": "020",
+    "Nome": "Ferramenta",
+    "Valor": 4.90,
+    "Quantidade": 0
+  }
+  
+]
